@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "tomorrow at 4pm with ali and ahmad related to car service",
+      "start_time": "2025-09-03T16:00:00",
+      "end_time": "2025-09-03T17:00:00",
+      "description": "Participants: Ali. Topic: car service",
+      "location": "",
+      "created_at": "2025-09-03T23:59:40.613260"
+    }
+  ],
+  "tasks": []
+}
